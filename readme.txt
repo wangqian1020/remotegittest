@@ -11,9 +11,4 @@ di si ci xiugai
 
 wo jianli le yige xinfenzhi.
 
-<<<<<<< HEAD
 fenzhi chongtu wenti meilai.
-=======
-fenzhi chongtu wenti meilai.
-
->>>>>>> dev
